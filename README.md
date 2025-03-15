@@ -1,6 +1,6 @@
-# company_broucher_generator
-
 # Company Website Scraper & Brochure Generator
+
+
 
 ## Overview
 This project is a web scraping and AI-powered tool that extracts information about a company from its website and generates a summarized brochure. The tool leverages **BeautifulSoup** for web scraping, **Gradio** for an interactive UI, and **Large Language Models (LLMs)** like **OpenAI GPT via API** and **local Llama models** to process and summarize content.
