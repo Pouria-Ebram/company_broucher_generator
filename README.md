@@ -45,6 +45,12 @@ This project is a web scraping and AI-powered tool that extracts information abo
 3. **Choose AI model** (GPT API or Local Llama).
 4. **Generate and download the summary brochure.**
 
+## Sample Output
+
+Here is a sample output from my Gradio app:
+
+![Gradio Output](images/gradio_output.png)
+
 ## Future Improvements
 - Add multi-page PDF generation for brochures.
 - Improve prompt engineering for more structured outputs.
