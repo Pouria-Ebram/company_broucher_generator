@@ -49,7 +49,7 @@ This project is a web scraping and AI-powered tool that extracts information abo
 
 Here is a sample output from my Gradio app:
 
-![Gradio Output](images/gradio_output.png)
+![Gradio Output](images/Gradio_Output.png)
 
 ## Future Improvements
 - Add multi-page PDF generation for brochures.
