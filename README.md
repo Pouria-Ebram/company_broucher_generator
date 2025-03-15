@@ -52,6 +52,6 @@ This project is a web scraping and AI-powered tool that extracts information abo
 
 ## Author
 - **Pouria Ebrahimnezhad**
-- LinkedIn: [Pouria Ebrahimnezhad]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/pouria-ebram/))
+- LinkedIn: [Pouria Ebrahimnezhad](https://www.linkedin.com/in/pouria-ebram/)
 
 
